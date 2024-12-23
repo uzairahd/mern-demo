@@ -1,0 +1,12 @@
+.gajith{
+    background-color: bisque;
+    border: 2px solid black;
+    color: red;
+}
+.sanjayan{
+    background-color: azure;
+    border: 2px solid black;
+    color: brown;
+    position: absolute;
+    top: +500px;
+} 
